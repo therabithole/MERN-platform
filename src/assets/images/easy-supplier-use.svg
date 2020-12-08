@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.0" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c014 79.151739, 2013/04/03-12:12:15        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>image/svg+xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Web</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreatorTool>Adobe Illustrator CC (Windows)</xmp:CreatorTool>
+         <xmp:CreateDate>2019-11-23T00:09:58+01:00</xmp:CreateDate>
+         <xmp:ModifyDate>2019-11-23T00:09:58+01:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2019-11-23T00:09:58+01:00</xmp:MetadataDate>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>224</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAADgAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q8r81+ZrzUr6aCKVk&#xA;sImKRxqaB+JpyanWvbOn0WjjjiCR6i6nPnMjQ5MepmfbjW6mNrbqY2tupja26mNrbqY2tupja26m&#xA;NrataXd1aTCa1laGVejISDkZwjMVIWGUZkGw9Y8q622r6SlxIALiNjFOB0LKAeQ+YNc5bW6fwslD&#xA;l0dvgy8cb6pvmI3OxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KvEJx+/k/1j+vOzidg8+Tu&#xA;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</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:OriginalDocumentID>uuid:65E6390686CF11DBA6E2D887CEACB407</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.did:c0db34f2-0eed-9c4e-b0ea-45e1eda018a4</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:c0db34f2-0eed-9c4e-b0ea-45e1eda018a4</xmpMM:InstanceID>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:50f9164d-58b5-4fa3-a2ac-51ff76d5edab</stRef:instanceID>
+            <stRef:documentID>xmp.did:5657a3f2-b5bc-bb44-9303-38e00d48b536</stRef:documentID>
+            <stRef:originalDocumentID>uuid:65E6390686CF11DBA6E2D887CEACB407</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c0db34f2-0eed-9c4e-b0ea-45e1eda018a4</stEvt:instanceID>
+                  <stEvt:when>2019-11-23T00:09:58+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CC (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Web</illustrator:StartupProfile>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>True</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>800.000000</stDim:w>
+            <stDim:h>800.000000</stDim:h>
+            <stDim:unit>Pixels</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Red</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Yellow</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Green</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Cyan</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Blue</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Magenta</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=193 G=39 B=45</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>193</xmpG:red>
+                           <xmpG:green>39</xmpG:green>
+                           <xmpG:blue>45</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=237 G=28 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>237</xmpG:red>
+                           <xmpG:green>28</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=241 G=90 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>241</xmpG:red>
+                           <xmpG:green>90</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=247 G=147 B=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>247</xmpG:red>
+                           <xmpG:green>147</xmpG:green>
+                           <xmpG:blue>30</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=251 G=176 B=59</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>251</xmpG:red>
+                           <xmpG:green>176</xmpG:green>
+                           <xmpG:blue>59</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=252 G=238 B=33</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>252</xmpG:red>
+                           <xmpG:green>238</xmpG:green>
+                           <xmpG:blue>33</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=217 G=224 B=33</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>217</xmpG:red>
+                           <xmpG:green>224</xmpG:green>
+                           <xmpG:blue>33</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=140 G=198 B=63</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>140</xmpG:red>
+                           <xmpG:green>198</xmpG:green>
+                           <xmpG:blue>63</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=57 G=181 B=74</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>57</xmpG:red>
+                           <xmpG:green>181</xmpG:green>
+                           <xmpG:blue>74</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=146 B=69</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>146</xmpG:green>
+                           <xmpG:blue>69</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=104 B=55</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>104</xmpG:green>
+                           <xmpG:blue>55</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=34 G=181 B=115</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>34</xmpG:red>
+                           <xmpG:green>181</xmpG:green>
+                           <xmpG:blue>115</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=169 B=157</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>169</xmpG:green>
+                           <xmpG:blue>157</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=41 G=171 B=226</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>41</xmpG:red>
+                           <xmpG:green>171</xmpG:green>
+                           <xmpG:blue>226</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=113 B=188</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>113</xmpG:green>
+                           <xmpG:blue>188</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=46 G=49 B=146</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>46</xmpG:red>
+                           <xmpG:green>49</xmpG:green>
+                           <xmpG:blue>146</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=27 G=20 B=100</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>27</xmpG:red>
+                           <xmpG:green>20</xmpG:green>
+                           <xmpG:blue>100</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=102 G=45 B=145</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>102</xmpG:red>
+                           <xmpG:green>45</xmpG:green>
+                           <xmpG:blue>145</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=147 G=39 B=143</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>147</xmpG:red>
+                           <xmpG:green>39</xmpG:green>
+                           <xmpG:blue>143</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=158 G=0 B=93</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>158</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>93</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=212 G=20 B=90</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>212</xmpG:red>
+                           <xmpG:green>20</xmpG:green>
+                           <xmpG:blue>90</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=237 G=30 B=121</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>237</xmpG:red>
+                           <xmpG:green>30</xmpG:green>
+                           <xmpG:blue>121</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=199 G=178 B=153</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>199</xmpG:red>
+                           <xmpG:green>178</xmpG:green>
+                           <xmpG:blue>153</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=153 G=134 B=117</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>153</xmpG:red>
+                           <xmpG:green>134</xmpG:green>
+                           <xmpG:blue>117</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=115 G=99 B=87</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>115</xmpG:red>
+                           <xmpG:green>99</xmpG:green>
+                           <xmpG:blue>87</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=83 G=71 B=65</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>83</xmpG:red>
+                           <xmpG:green>71</xmpG:green>
+                           <xmpG:blue>65</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=198 G=156 B=109</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>198</xmpG:red>
+                           <xmpG:green>156</xmpG:green>
+                           <xmpG:blue>109</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=166 G=124 B=82</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>166</xmpG:red>
+                           <xmpG:green>124</xmpG:green>
+                           <xmpG:blue>82</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=140 G=98 B=57</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>140</xmpG:red>
+                           <xmpG:green>98</xmpG:green>
+                           <xmpG:blue>57</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=117 G=76 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>117</xmpG:red>
+                           <xmpG:green>76</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=96 G=56 B=19</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>96</xmpG:red>
+                           <xmpG:green>56</xmpG:green>
+                           <xmpG:blue>19</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=66 G=33 B=11</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>66</xmpG:red>
+                           <xmpG:green>33</xmpG:green>
+                           <xmpG:blue>11</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=0 B=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=26 G=26 B=26</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>26</xmpG:red>
+                           <xmpG:green>26</xmpG:green>
+                           <xmpG:blue>26</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=51 G=51 B=51</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>51</xmpG:red>
+                           <xmpG:green>51</xmpG:green>
+                           <xmpG:blue>51</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=77 G=77 B=77</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>77</xmpG:red>
+                           <xmpG:green>77</xmpG:green>
+                           <xmpG:blue>77</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=102 G=102 B=102</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>102</xmpG:red>
+                           <xmpG:green>102</xmpG:green>
+                           <xmpG:blue>102</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=128 G=128 B=128</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>128</xmpG:red>
+                           <xmpG:green>128</xmpG:green>
+                           <xmpG:blue>128</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=153 G=153 B=153</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>153</xmpG:red>
+                           <xmpG:green>153</xmpG:green>
+                           <xmpG:blue>153</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=179 G=179 B=179</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>179</xmpG:red>
+                           <xmpG:green>179</xmpG:green>
+                           <xmpG:blue>179</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=204 G=204 B=204</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>204</xmpG:red>
+                           <xmpG:green>204</xmpG:green>
+                           <xmpG:blue>204</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=230 G=230 B=230</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>230</xmpG:red>
+                           <xmpG:green>230</xmpG:green>
+                           <xmpG:blue>230</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=242 G=242 B=242</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>242</xmpG:red>
+                           <xmpG:green>242</xmpG:green>
+                           <xmpG:blue>242</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Web Color Group</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=63 G=169 B=245</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>63</xmpG:red>
+                           <xmpG:green>169</xmpG:green>
+                           <xmpG:blue>245</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=122 G=201 B=67</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>122</xmpG:red>
+                           <xmpG:green>201</xmpG:green>
+                           <xmpG:blue>67</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=147 B=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>147</xmpG:green>
+                           <xmpG:blue>30</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=29 B=37</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>29</xmpG:green>
+                           <xmpG:blue>37</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=123 B=172</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>123</xmpG:green>
+                           <xmpG:blue>172</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=189 G=204 B=212</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>189</xmpG:red>
+                           <xmpG:green>204</xmpG:green>
+                           <xmpG:blue>212</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 10.01</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<g>
+	<g opacity="0.32">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="165.229" y1="325.3657" x2="532.1313" y2="325.3657">
+			<stop  offset="0" style="stop-color:#40A9E6"/>
+			<stop  offset="1" style="stop-color:#1FA9FF"/>
+			<a:midPointStop  offset="0" style="stop-color:#40A9E6"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#40A9E6"/>
+			<a:midPointStop  offset="1" style="stop-color:#1FA9FF"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M505.914,538.432H191.446c-14.48,0-26.217-11.737-26.217-26.216v-373.7
+			c0-14.479,11.737-26.216,26.217-26.216h314.469c14.479,0,26.217,11.737,26.217,26.216v373.7
+			C532.131,526.694,520.393,538.432,505.914,538.432z"/>
+	</g>
+	<g opacity="0.72">
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="195.489" y="474.668" width="31.021" height="6.629">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="195.489" y="474.668" width="31.021" height="6.629" id="SVGID_2_">
+				<g filter="url(#Adobe_OpacityMaskFilter)">
+					<defs>
+						
+							<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="195.489" y="474.668" width="31.021" height="6.629">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="195.489" y="474.668" width="31.021" height="6.629" id="SVGID_2_">
+						<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="211" y1="572.2062" x2="211" y2="382.6531">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="195.489" y="474.668" mask="url(#SVGID_2_)" fill="url(#SVGID_3_)"  a:adobe-blending-mode="multiply" width="31.021" height="6.629"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="211" y1="572.2062" x2="211" y2="382.6531">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="195.489" y="474.668" fill="url(#SVGID_4_)" width="31.021" height="6.629"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="324.809" y="499.628" width="48.128" height="6.63">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="324.809" y="499.628" width="48.128" height="6.63" id="SVGID_5_">
+				<g filter="url(#Adobe_OpacityMaskFilter_2_)">
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="324.809" y="499.628" width="48.128" height="6.63">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="324.809" y="499.628" width="48.128" height="6.63" id="SVGID_5_">
+						<g filter="url(#Adobe_OpacityMaskFilter_3_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="348.8726" y1="572.2109" x2="348.8726" y2="382.6435">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="324.809" y="499.628" mask="url(#SVGID_5_)" fill="url(#SVGID_6_)"  a:adobe-blending-mode="multiply" width="48.128" height="6.63"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="348.8726" y1="572.2109" x2="348.8726" y2="382.6435">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="324.809" y="499.628" fill="url(#SVGID_7_)" width="48.128" height="6.63"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="262.577" y="499.628" width="29.38" height="6.63">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="262.577" y="499.628" width="29.38" height="6.63" id="SVGID_8_">
+				<g filter="url(#Adobe_OpacityMaskFilter_4_)">
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter_5_" filterUnits="userSpaceOnUse" x="262.577" y="499.628" width="29.38" height="6.63">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="262.577" y="499.628" width="29.38" height="6.63" id="SVGID_8_">
+						<g filter="url(#Adobe_OpacityMaskFilter_5_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="277.2673" y1="572.2109" x2="277.2673" y2="382.6435">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="262.577" y="499.628" mask="url(#SVGID_8_)" fill="url(#SVGID_9_)"  a:adobe-blending-mode="multiply" width="29.38" height="6.63"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="277.2673" y1="572.2109" x2="277.2673" y2="382.6435">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="262.577" y="499.628" fill="url(#SVGID_10_)" width="29.38" height="6.63"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_6_" filterUnits="userSpaceOnUse" x="195.489" y="499.628" width="58.21" height="6.63">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="195.489" y="499.628" width="58.21" height="6.63" id="SVGID_11_">
+				<g filter="url(#Adobe_OpacityMaskFilter_6_)">
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter_7_" filterUnits="userSpaceOnUse" x="195.489" y="499.628" width="58.21" height="6.63">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="195.489" y="499.628" width="58.21" height="6.63" id="SVGID_11_">
+						<g filter="url(#Adobe_OpacityMaskFilter_7_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="224.5945" y1="572.2109" x2="224.5945" y2="382.6435">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="195.489" y="499.628" mask="url(#SVGID_11_)" fill="url(#SVGID_12_)"  a:adobe-blending-mode="multiply" width="58.21" height="6.63"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="224.5945" y1="572.2109" x2="224.5945" y2="382.6435">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="195.489" y="499.628" fill="url(#SVGID_13_)" width="58.21" height="6.63"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_8_" filterUnits="userSpaceOnUse" x="235.953" y="474.668" width="45.963" height="6.629">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="235.953" y="474.668" width="45.963" height="6.629" id="SVGID_14_">
+				<g filter="url(#Adobe_OpacityMaskFilter_8_)">
+					<defs>
+						
+							<filter id="Adobe_OpacityMaskFilter_9_" filterUnits="userSpaceOnUse" x="235.953" y="474.668" width="45.963" height="6.629">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="235.953" y="474.668" width="45.963" height="6.629" id="SVGID_14_">
+						<g filter="url(#Adobe_OpacityMaskFilter_9_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="258.9348" y1="572.2062" x2="258.9348" y2="382.6531">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="235.953" y="474.668" mask="url(#SVGID_14_)" fill="url(#SVGID_15_)"  a:adobe-blending-mode="multiply" width="45.963" height="6.629"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="258.9348" y1="572.2062" x2="258.9348" y2="382.6531">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="235.953" y="474.668" fill="url(#SVGID_16_)" width="45.963" height="6.629"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_10_" filterUnits="userSpaceOnUse" x="301.155" y="499.628" width="12.625" height="6.63">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="301.155" y="499.628" width="12.625" height="6.63" id="SVGID_17_">
+				<g filter="url(#Adobe_OpacityMaskFilter_10_)">
+					<defs>
+						
+							<filter id="Adobe_OpacityMaskFilter_11_" filterUnits="userSpaceOnUse" x="301.155" y="499.628" width="12.625" height="6.63">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="301.155" y="499.628" width="12.625" height="6.63" id="SVGID_17_">
+						<g filter="url(#Adobe_OpacityMaskFilter_11_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="307.4675" y1="572.2109" x2="307.4675" y2="382.6435">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="301.155" y="499.628" mask="url(#SVGID_17_)" fill="url(#SVGID_18_)"  a:adobe-blending-mode="multiply" width="12.625" height="6.63"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="307.4675" y1="572.2109" x2="307.4675" y2="382.6435">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="301.155" y="499.628" fill="url(#SVGID_19_)" width="12.625" height="6.63"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_12_" filterUnits="userSpaceOnUse" x="338.6" y="475.037" width="34.336" height="6.629">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="338.6" y="475.037" width="34.336" height="6.629" id="SVGID_20_">
+				<g filter="url(#Adobe_OpacityMaskFilter_12_)">
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter_13_" filterUnits="userSpaceOnUse" x="338.6" y="475.037" width="34.336" height="6.629">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="338.6" y="475.037" width="34.336" height="6.629" id="SVGID_20_">
+						<g filter="url(#Adobe_OpacityMaskFilter_13_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="355.7683" y1="572.2057" x2="355.7683" y2="382.6526">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="338.6" y="475.037" mask="url(#SVGID_20_)" fill="url(#SVGID_21_)"  a:adobe-blending-mode="multiply" width="34.336" height="6.629"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_22_" gradientUnits="userSpaceOnUse" x1="355.7683" y1="572.2057" x2="355.7683" y2="382.6526">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="338.6" y="475.037" fill="url(#SVGID_22_)" width="34.336" height="6.629"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_14_" filterUnits="userSpaceOnUse" x="385.183" y="499.628" width="29.28" height="6.63">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="385.183" y="499.628" width="29.28" height="6.63" id="SVGID_23_">
+				<g filter="url(#Adobe_OpacityMaskFilter_14_)">
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter_15_" filterUnits="userSpaceOnUse" x="385.183" y="499.628" width="29.28" height="6.63">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="385.183" y="499.628" width="29.28" height="6.63" id="SVGID_23_">
+						<g filter="url(#Adobe_OpacityMaskFilter_15_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_24_" gradientUnits="userSpaceOnUse" x1="399.823" y1="572.2109" x2="399.823" y2="382.6435">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="385.183" y="499.628" mask="url(#SVGID_23_)" fill="url(#SVGID_24_)"  a:adobe-blending-mode="multiply" width="29.28" height="6.63"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="399.823" y1="572.2109" x2="399.823" y2="382.6435">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="385.183" y="499.628" fill="url(#SVGID_25_)" width="29.28" height="6.63"/>
+		</g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_16_" filterUnits="userSpaceOnUse" x="293.219" y="475.037" width="36.398" height="6.629">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="293.219" y="475.037" width="36.398" height="6.629" id="SVGID_26_">
+				<g filter="url(#Adobe_OpacityMaskFilter_16_)">
+					<defs>
+						
+							<filter id="Adobe_OpacityMaskFilter_17_" filterUnits="userSpaceOnUse" x="293.219" y="475.037" width="36.398" height="6.629">
+							<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+							<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="293.219" y="475.037" width="36.398" height="6.629" id="SVGID_26_">
+						<g filter="url(#Adobe_OpacityMaskFilter_17_)">
+						</g>
+					</mask>
+					<linearGradient id="SVGID_27_" gradientUnits="userSpaceOnUse" x1="311.4182" y1="572.2057" x2="311.4182" y2="382.6526">
+						<stop  offset="0" style="stop-color:#000000"/>
+						<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+						<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+						<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					
+						<rect x="293.219" y="475.037" mask="url(#SVGID_26_)" fill="url(#SVGID_27_)"  a:adobe-blending-mode="multiply" width="36.398" height="6.629"/>
+				</g>
+			</mask>
+			<linearGradient id="SVGID_28_" gradientUnits="userSpaceOnUse" x1="311.4182" y1="572.2057" x2="311.4182" y2="382.6526">
+				<stop  offset="0" style="stop-color:#40CDE6"/>
+				<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<stop  offset="1" style="stop-color:#5577FF"/>
+				<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+				<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+			</linearGradient>
+			<rect x="293.219" y="475.037" fill="url(#SVGID_28_)" width="36.398" height="6.629"/>
+		</g>
+	</g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_18_" filterUnits="userSpaceOnUse" x="99.297" y="315.551" width="254.427" height="127.964">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="99.297" y="315.551" width="254.427" height="127.964" id="SVGID_29_">
+		<g filter="url(#Adobe_OpacityMaskFilter_18_)">
+			<defs>
+				
+					<filter id="Adobe_OpacityMaskFilter_19_" filterUnits="userSpaceOnUse" x="99.297" y="315.551" width="254.427" height="127.964">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="99.297" y="315.551" width="254.427" height="127.964" id="SVGID_29_">
+				<g filter="url(#Adobe_OpacityMaskFilter_19_)">
+				</g>
+			</mask>
+			<linearGradient id="SVGID_30_" gradientUnits="userSpaceOnUse" x1="226.5107" y1="539.4847" x2="226.5107" y2="196.122">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+				<a:midPointStop  offset="0" style="stop-color:#000000"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+				<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<polygon mask="url(#SVGID_29_)" fill="url(#SVGID_30_)"  a:adobe-blending-mode="multiply" points="99.297,315.551 
+				353.724,315.551 353.724,387.475 353.724,411.34 353.724,443.516 327.333,411.34 99.297,411.34 			"/>
+		</g>
+	</mask>
+	<linearGradient id="SVGID_31_" gradientUnits="userSpaceOnUse" x1="226.5107" y1="539.4847" x2="226.5107" y2="196.122">
+		<stop  offset="0" style="stop-color:#40CDE6"/>
+		<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+		<stop  offset="1" style="stop-color:#5577FF"/>
+		<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+	</linearGradient>
+	<polygon opacity="0.72" fill="url(#SVGID_31_)" points="99.297,315.551 353.724,315.551 353.724,387.475 353.724,411.34 
+		353.724,443.516 327.333,411.34 99.297,411.34 	"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_20_" filterUnits="userSpaceOnUse" x="394.009" y="182.84" width="206.699" height="127.965">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="394.009" y="182.84" width="206.699" height="127.965" id="SVGID_32_">
+		<g filter="url(#Adobe_OpacityMaskFilter_20_)">
+			<defs>
+				
+					<filter id="Adobe_OpacityMaskFilter_21_" filterUnits="userSpaceOnUse" x="394.009" y="182.84" width="206.699" height="127.965">
+					<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+					<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="394.009" y="182.84" width="206.699" height="127.965" id="SVGID_32_">
+				<g filter="url(#Adobe_OpacityMaskFilter_21_)">
+				</g>
+			</mask>
+			<linearGradient id="SVGID_33_" gradientUnits="userSpaceOnUse" x1="497.3582" y1="382.6533" x2="497.3582" y2="114.8458">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="0.2021" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+				<a:midPointStop  offset="0" style="stop-color:#000000"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#000000"/>
+				<a:midPointStop  offset="0.2021" style="stop-color:#FFFFFF"/>
+				<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+				<a:midPointStop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<polygon mask="url(#SVGID_32_)" fill="url(#SVGID_33_)"  a:adobe-blending-mode="multiply" points="600.708,182.84 
+				394.009,182.84 394.009,254.763 394.009,278.629 394.009,310.805 420.4,278.629 600.708,278.629 			"/>
+		</g>
+	</mask>
+	<linearGradient id="SVGID_34_" gradientUnits="userSpaceOnUse" x1="497.3582" y1="382.6533" x2="497.3582" y2="114.8458">
+		<stop  offset="0" style="stop-color:#40CDE6"/>
+		<stop  offset="0.2021" style="stop-color:#40CDE6"/>
+		<stop  offset="1" style="stop-color:#5577FF"/>
+		<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="0.2021" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+	</linearGradient>
+	<polygon opacity="0.72" fill="url(#SVGID_34_)" points="600.708,182.84 394.009,182.84 394.009,254.763 394.009,278.629 
+		394.009,310.805 420.4,278.629 600.708,278.629 	"/>
+	<linearGradient id="SVGID_35_" gradientUnits="userSpaceOnUse" x1="234.6967" y1="313.1461" x2="234.6967" y2="-3.0233">
+		<stop  offset="0" style="stop-color:#40CDE6"/>
+		<stop  offset="1" style="stop-color:#5577FF"/>
+		<a:midPointStop  offset="0" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="0.5" style="stop-color:#40CDE6"/>
+		<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+	</linearGradient>
+	<path opacity="0.72" fill="url(#SVGID_35_)" d="M322.625,277.815H146.768c-13.791,0-24.972-11.18-24.972-24.971V76.987
+		c0-13.791,11.18-24.972,24.972-24.972h175.857c13.791,0,24.971,11.18,24.971,24.972v175.857
+		C347.597,266.636,336.417,277.815,322.625,277.815z"/>
+	<g>
+		<g>
+			<g>
+				<path fill="#FFFFFF" d="M310.512,137.801c-12.055-33.707-44.269-54.41-78.221-53.39c-8.219,0.248-16.54,1.768-24.706,4.688
+					c-24.73,8.846-42.465,28.545-49.75,51.816c-5.049,16.129-5.081,33.973,1.05,51.114c0.608,1.705,1.271,3.382,1.982,5.019
+					c3.225,7.424,7.455,14.14,12.481,20.043c21.07,24.771,56.032,35.239,88.466,23.641
+					C303.685,225.756,325.487,179.673,310.512,137.801z M255.027,221.756c-24.317,8.698-50.528,0.848-66.326-17.721
+					c-3.765-4.426-6.94-9.462-9.355-15.03c-0.533-1.229-1.031-2.485-1.488-3.764c-4.596-12.85-4.57-26.229-0.786-38.319
+					c5.462-17.451,18.756-32.22,37.298-38.85c6.12-2.189,12.36-3.329,18.523-3.516c25.452-0.769,49.608,14.755,58.647,40.027
+					C302.767,175.977,286.419,210.527,255.027,221.756z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#15456E" d="M177.071,146.922l-19.237-6.007c7.285-23.271,25.02-42.971,49.75-51.816
+					c8.166-2.92,16.487-4.439,24.706-4.688l0.602,20.146c-6.163,0.188-12.403,1.327-18.523,3.516
+					C195.828,114.702,182.534,129.472,177.071,146.922z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#1B5C91" d="M179.345,189.005l-18.479,8.042c-0.711-1.637-1.374-3.314-1.982-5.019
+					c-6.131-17.141-6.099-34.985-1.05-51.114l19.237,6.007c-3.785,12.09-3.811,25.469,0.786,38.319
+					C178.314,186.52,178.812,187.776,179.345,189.005z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="#2273B5" d="M173.348,217.091c-5.026-5.903-9.257-12.619-12.481-20.043l18.479-8.042
+					c2.415,5.568,5.59,10.604,9.355,15.03L173.348,217.091z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path fill="#DA9B5B" d="M549.294,684.631c0,0,1.432,10.499,1.611,12.076c0.179,1.577,15.931-0.929,15.931-0.929l1.275-12.498
+			C568.111,683.279,551.263,683.15,549.294,684.631z"/>
+		<path fill="#FAB46C" d="M550.738,695.372c0,0-13.448,7.6-18.275,10.357c-4.827,2.757-19.683,4.19-19.146,7.053
+			c0.537,2.864,4.833,9.308,24.88,9.129c20.047-0.179,29.713,1.253,31.861-2.148c2.148-3.4-3.107-25.102-3.107-25.102
+			S562.383,697.651,550.738,695.372z"/>
+		<path fill="#DA9B5B" d="M477.559,701.483l2.314,13.268c0,0,17.033-1.025,17.749-3.352c0.716-2.327-1.865-14.692-1.865-14.692
+			L477.559,701.483z"/>
+		<path fill="#FAB46C" d="M497.763,710.456c0,0,5.352,18.077,1.592,24.879c-3.759,6.802-15.93,8.055-20.405,7.697
+			c-4.475-0.358-16.646-4.475-27.923-3.938c-11.277,0.537-24.522-2.327-21.3-9.308c3.221-6.981,27.789-4.833,35.284-11.277
+			c7.496-6.443,14.244-7.302,14.244-7.302S479.327,716.9,497.763,710.456z"/>
+		<g>
+			<polygon fill="#514E58" points="435.849,365.678 408.845,325.561 432.357,312.497 455.605,353.582 			"/>
+			<polygon fill="#3E3B42" points="435.66,362.089 412.289,327.371 432.638,316.064 452.757,351.621 			"/>
+			<path fill="#EEA886" d="M455.213,370.618c0,0-4.888-2.414-1.961-8.259c2.926-5.846,0.865-7.81,0.865-7.81l-21.965,13.381
+				c0,0,6.838,10.415,9.416,11.352C444.146,380.219,457.118,374.598,455.213,370.618z"/>
+			<path fill="#EEA886" d="M432.152,367.93c0,0-9.369-9.497-10.164-10.779c-0.795-1.283-4.638-7.077-6.017-10.306
+				c-1.38-3.229,6.465-0.734,8.133,2.672c1.668,3.406,3.564,4.691,5.028,5.692c1.464,1.001,11.045,3.772,12.324,7.054
+				C442.734,365.544,432.152,367.93,432.152,367.93z"/>
+			<path fill="#EEA886" d="M449.576,343.198c0,0-1.224,3.282-2.533,1.385c-1.309-1.897-1.681-7.941,1.166-7.145
+				S449.576,343.198,449.576,343.198z"/>
+			<path fill="#EEA886" d="M445.984,337.196c0,0-0.916,4.087-2.565,2.477c-1.243-1.212-1.649-9.033,1.197-8.237
+				C447.462,332.232,445.984,337.196,445.984,337.196z"/>
+		</g>
+		<path fill="#EEA886" d="M513.543,374.763c0,0-8.778-6.297-12.562-9.445c-3.784-3.149-14.031-8.371-14.767-9.308
+			c-0.735-0.938-31.63-8.428-33.234-10.4c-1.603-1.972-4.419,3.166,3.361,6.381c7.781,3.215,18.275,9.558,18.328,12.832
+			c0.053,3.274-9.013,2.433-10.381,4.878c-1.369,2.445-0.106,2.067,1.074,2.854c1.181,0.787,11.446-2.724,15.293-0.523
+			c3.848,2.2,10.491,1.285,13.449,2.924c2.957,1.639,17.353,9.518,17.353,9.518L513.543,374.763z"/>
+		<path fill="#EAD8CF" d="M495.021,378.456l-4.616-2.708c0,0,8.739-13.37,11.366-12.538c3.027,0.957,6.712,2.668,6.712,2.668
+			L495.021,378.456z"/>
+		<path fill="#CF3E3E" d="M493.448,380.751c0.716-0.358,13.961-17.541,13.961-17.541l20.584,6.622l-15.393,20.405L493.448,380.751z"
+			/>
+		<path fill="#353A3D" d="M609.11,511c0,0,2.169,33.575-14.477,39.75H464.422c0,0,33.478,145.104,33.478,147.52l-21.635,5.92
+			c0,0-59.242-124.199-62.047-130.889c-3.49-8.323-3.222-30.338,6.98-38.66c10.202-8.323,75.71-31.865,88.597-32.713
+			C522.682,501.082,609.11,511,609.11,511z"/>
+		<path fill="#EEA886" d="M583.533,327.983c0,0-0.479,8.667-0.713,19.799c-0.233,11.131-30.304,3.793-30.304,3.793
+			s1.356-12.033-2.096-15.861C546.967,331.886,583.533,327.983,583.533,327.983z"/>
+		<path fill="#EEA886" d="M539.45,282.484c-0.716,4.653-9.845,10.381-3.401,37.588c6.444,27.207,17.005,23.806,25.238,22.016
+			c8.234-1.79,22.911-6.623,28.46-28.281c5.549-21.658-3.58-33.77-10.023-41.467C573.279,264.645,539.45,282.484,539.45,282.484z"/>
+		<path fill="#EB4747" d="M622.701,363.881c0,0-10.506,55.77-6.625,73.37c-0.33,7.164-2.399,20.349-2.702,24.584
+			c-0.806,11.275-2.363,48.106-2.363,48.106c-33.022,19.6-100.31-6.135-101.215-8.012c-1.967-4.082,16.376-31.721,16.376-39.507
+			c0-7.787-10.35-39.07-10.35-39.07s-18.078,25.417-28.639,30.428c-10.561,5.012-46.001-67.48-46.001-67.48l19.51-14.32
+			c0,0,23.806,34.188,24.701,35.262c0.895,1.074,24.522-25.059,27.565-30.25c3.043-5.191,39.558-25.417,39.558-25.417
+			s27.352-4.33,30.303-3.793C585.773,348.319,620.284,362.539,622.701,363.881z"/>
+		<path fill="#2B2B2B" d="M519.729,566.59c0,0,24.163,117.055,27.653,117.861c3.49,0.805,22.284-1.343,22.284-1.343
+			s3.222-64.166,1.879-78.664c-1.342-14.497-1.611-42.151-1.611-42.151L519.729,566.59z"/>
+		<path fill="#EAD8CF" d="M459.077,373.167l-3.193-4.752c0,0-17.007,9.432-16.291,11.699c0.716,2.268,2.997,5.154,2.997,5.154
+			L459.077,373.167z"/>
+		<path fill="#434343" d="M534.164,297.02c0,0-2.358-0.395-3.903-3.497c-1.545-3.103-5.668-26.431,23.866-27.505
+			c22.219-0.808,24.657-1.906,32.577,5.907c8.95,8.831,6.524,41.605-3.17,56.06c0,0-17.72-2.899-25.059-16.235
+			c-2.211-4.019,1.335-16.87-6.854-15.213c-6.091,1.231-5.64,16.616-5.64,16.616l-3.966,1.432
+			C542.015,314.583,545.611,290.692,534.164,297.02z"/>
+		<path fill="#EB4747" d="M622.701,363.881c0,0,26.293,21.188-8.73,76.794C598.216,465.688,622.701,363.881,622.701,363.881z"/>
+		<rect x="464.422" y="550.75" fill="#BDB69C" width="236.3" height="16.332"/>
+		<rect x="464.422" y="567.082" fill="#80756B" width="15.064" height="181.857"/>
+		<rect x="685.658" y="567.082" fill="#80756B" width="15.064" height="181.857"/>
+		<path fill="#EAD8CF" d="M552.516,351.575v-3.341c0,0,24.373-7.288,30.384-3.823l-0.081,3.371L552.516,351.575z"/>
+		<path fill="#EB4747" d="M509.796,501.929c0,0,46.167,33.618,77.141,25.685c21.709-5.56,24.074-17.673,24.074-17.673
+			L509.796,501.929z"/>
+		<polygon fill="#8A2929" points="485.393,407.242 472.111,420.054 479.922,399.559 		"/>
+	</g>
+	<g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_22_" filterUnits="userSpaceOnUse" x="326.609" y="560.454" width="68.786" height="33.434">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="326.609" y="560.454" width="68.786" height="33.434" id="SVGID_36_">
+			<g filter="url(#Adobe_OpacityMaskFilter_22_)">
+				<defs>
+					
+						<filter id="Adobe_OpacityMaskFilter_23_" filterUnits="userSpaceOnUse" x="326.609" y="560.454" width="68.786" height="33.434">
+						<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+						<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="326.609" y="560.454" width="68.786" height="33.434" id="SVGID_36_">
+					<g filter="url(#Adobe_OpacityMaskFilter_23_)">
+					</g>
+				</mask>
+				<linearGradient id="SVGID_37_" gradientUnits="userSpaceOnUse" x1="357.6174" y1="413.5884" x2="363.4108" y2="693.5948">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<polygon mask="url(#SVGID_36_)" fill="url(#SVGID_37_)"  a:adobe-blending-mode="multiply" points="342.729,593.888 
+					395.395,593.888 379.275,560.454 326.609,560.454 				"/>
+			</g>
+		</mask>
+		<linearGradient id="SVGID_38_" gradientUnits="userSpaceOnUse" x1="357.6174" y1="413.5884" x2="363.4108" y2="693.5948">
+			<stop  offset="0" style="stop-color:#40D5E6"/>
+			<stop  offset="1" style="stop-color:#5577FF"/>
+			<a:midPointStop  offset="0" style="stop-color:#40D5E6"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#40D5E6"/>
+			<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_38_)" points="342.729,593.888 395.395,593.888 379.275,560.454 326.609,560.454 		"/>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_24_" filterUnits="userSpaceOnUse" x="301.965" y="560.454" width="28.669" height="33.434">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="301.965" y="560.454" width="28.669" height="33.434" id="SVGID_39_">
+			<g filter="url(#Adobe_OpacityMaskFilter_24_)">
+				<defs>
+					
+						<filter id="Adobe_OpacityMaskFilter_25_" filterUnits="userSpaceOnUse" x="301.965" y="560.454" width="28.669" height="33.434">
+						<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+						<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+					</filter>
+				</defs>
+				<mask maskUnits="userSpaceOnUse" x="301.965" y="560.454" width="28.669" height="33.434" id="SVGID_39_">
+					<g filter="url(#Adobe_OpacityMaskFilter_25_)">
+					</g>
+				</mask>
+				<linearGradient id="SVGID_40_" gradientUnits="userSpaceOnUse" x1="312.9346" y1="414.513" x2="318.728" y2="694.519">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				<polygon mask="url(#SVGID_39_)" fill="url(#SVGID_40_)"  a:adobe-blending-mode="multiply" points="318.085,593.888 
+					330.635,593.888 314.515,560.454 301.965,560.454 				"/>
+			</g>
+		</mask>
+		<linearGradient id="SVGID_41_" gradientUnits="userSpaceOnUse" x1="312.9346" y1="414.513" x2="318.728" y2="694.519">
+			<stop  offset="0" style="stop-color:#40D5E6"/>
+			<stop  offset="1" style="stop-color:#5577FF"/>
+			<a:midPointStop  offset="0" style="stop-color:#40D5E6"/>
+			<a:midPointStop  offset="0.5" style="stop-color:#40D5E6"/>
+			<a:midPointStop  offset="1" style="stop-color:#5577FF"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_41_)" points="318.085,593.888 330.635,593.888 314.515,560.454 301.965,560.454 		"/>
+	</g>
+</g>
+</svg>

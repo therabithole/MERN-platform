@@ -1,0 +1,16 @@
+:root {
+  /* Font sizes */
+  --extrabigbold: 45px;
+  --normalbold: 30px;
+  --normal: 25px;
+  --normallight: 20px;
+  --small: 15px;
+  --extrasmall: 12px;
+  /* CSS Colors: */
+  --theme-primary-color: #020202;
+  --theme-secondary-color: #f6e71d;
+  --theme-third-color:#181818;
+  --theme-fourth-color: #f5d10d;
+  --theme-fifth-color: white;
+}
+/*# sourceMappingURL=font.css.map */

@@ -1,0 +1,201 @@
+:root {
+  /* CSS Colors: */
+  --theme-primary-color: #020202;
+  --theme-secondary-color: #f6e71d;
+  --theme-third-color:#181818;
+  --theme-fourth-color: #f5d10d;
+  --theme-fifth-color: white;
+  --primary-color:#01d4ab;
+  --secondary-color: #2dd8c0;
+  --third-color: #4240b0;
+  --fourth-color:#14049e;
+  --fifth-color:#05022f;
+  --sixth-color: #93ced7;
+  --seventh-color: white;
+}
+
+@media (min-width: 768px) {
+  .react-app {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: 40vh 1fr 30vh;
+        grid-template-rows: 40vh 1fr 30vh;
+    -ms-grid-columns: 100vw;
+        grid-template-columns: 100vw;
+    border: 5px solid gold;
+        grid-template-areas: "header" "content" "footer";
+  }
+  .react-app section.header {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    grid-area: header;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: auto;
+        grid-template-rows: auto;
+    -ms-grid-columns: 2fr 8fr;
+        grid-template-columns: 2fr 8fr;
+        grid-template-areas: "logo_ menu_";
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .react-app section.header section.logo {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    grid-area: logo_;
+  }
+  .react-app section.header section.menu {
+    -ms-grid-row: 1;
+    -ms-grid-column: 2;
+    grid-area: menu_;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 6fr 3fr;
+        grid-template-columns: 6fr 3fr;
+    border: 2px solid red;
+        grid-template-areas: " navigation super";
+  }
+  .react-app section.header section.menu section.navigation {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    grid-area: navigation;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+  }
+  .react-app section.header section.menu section.navigation ul {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .react-app section.header section.menu section.navigation ul li {
+    list-style: none;
+  }
+  .react-app section.header section.menu section.navigation ul li a {
+    text-decoration: none;
+    color: var(--secondary-color);
+  }
+  .react-app section.header section.menu section.conditional {
+    -ms-grid-row: 1;
+    -ms-grid-column: 2;
+    grid-area: super;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  .react-app section.content {
+    -ms-grid-row: 2;
+    -ms-grid-column: 1;
+    grid-area: content;
+  }
+  .react-app section.content.home {
+    display: -ms-grid;
+    display: grid;
+  }
+  .react-app section.content.hotels {
+    display: -ms-grid;
+    display: grid;
+  }
+  .react-app section.content.restaurants {
+    display: -ms-grid;
+    display: grid;
+  }
+  .react-app section.footer {
+    -ms-grid-row: 3;
+    -ms-grid-column: 1;
+    grid-area: footer;
+  }
+}
+
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+  }
+  .react-app {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: 10vh 1fr 30vh;
+        grid-template-rows: 10vh 1fr 30vh;
+    -ms-grid-columns: 100vw;
+        grid-template-columns: 100vw;
+        grid-template-areas: "header-m hamburger" "content-m content-m" "footer-m footer-m";
+  }
+  .react-app section.header {
+    -ms-grid-row: 1;
+    -ms-grid-column: 1;
+    grid-area: header-m;
+  }
+  .react-app section.hamburger {
+    -ms-grid-row: 1;
+    -ms-grid-column: 2;
+    grid-area: hamburger;
+    -ms-grid-column-align: start;
+        justify-self: start;
+    z-index: 9;
+  }
+  .react-app section.hamburger .burger {
+    display: -ms-grid;
+    display: grid;
+    -webkit-box-pack: left;
+        -ms-flex-pack: left;
+            justify-content: left;
+    grid-row-gap: 5px;
+  }
+  .react-app section.hamburger .burger .line1 {
+    width: 40px;
+    height: 9px;
+    background-color: var(--theme-fourth-color);
+  }
+  .react-app section.hamburger .burger .line2 {
+    width: 50px;
+    height: 9px;
+    background-color: var(--theme-fourth-color);
+    -webkit-transition: -webkit-transform;
+    transition: -webkit-transform;
+    transition: transform;
+    transition: transform, -webkit-transform;
+  }
+  .react-app section.hamburger .burger .line3 {
+    width: 30px;
+    height: 9px;
+    background-color: var(--theme-fourth-color);
+  }
+  .react-app section.hamburger .burger .line1:hover {
+    width: 60px;
+  }
+  .react-app section.hamburger .burger .line2:hover {
+    width: 30px;
+  }
+  .react-app section.hamburger .burger .line3:hover {
+    width: 60px;
+  }
+  .react-app section.hamburger .burger .trans:hover {
+    -webkit-transition: width 0.5s cubic-bezier(0.17, 0.67, 0.36, 0.62);
+    transition: width 0.5s cubic-bezier(0.17, 0.67, 0.36, 0.62);
+  }
+  .react-app section.hamburger .hamburger-list {
+    list-style: none;
+    display: inline;
+  }
+  .react-app section.hamburger .hamburger-links {
+    color: var(--theme-primary-color);
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    background-size: 600% 200%;
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(50%, var(--theme-secondary-color)), color-stop(50%, var(--theme-fifth-color)));
+    background-image: linear-gradient(to top, var(--theme-secondary-color) 50%, var(--theme-fifth-color) 50%);
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .react-app section.hamburger .hamburger-links:hover {
+    background-position: 0 100%;
+    cursor: pointer;
+  }
+}
+/*# sourceMappingURL=App.css.map */
