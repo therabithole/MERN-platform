@@ -42,9 +42,6 @@ handleDelete = (hotel) => {
 }
 
 
-handleSideBar = title => {
-    console.log(title)
-}
 handleSidebarSelect = item => {
     this.setState({selectedSidebarItem: item, currentPage: 1});
     
@@ -83,7 +80,6 @@ handlePaginationClick = lodashpage => {
          <Sidebar 
          items={this.state.amenities}
          selectedItem={this.state.selectedSidebarItem}
-         onSidebarSelect={this.handleSideBar}
          onItemSelect={this.handleSidebarSelect}
          textProperty="name"
          idProperty="_id"
