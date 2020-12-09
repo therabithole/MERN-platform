@@ -7,7 +7,7 @@ import {getAmenities} from "../node/services/fakeAmenityService";
 import Pagination from "../components_r/component°/pagination/Pagination"
 import paginate from "../components_r/component°/pagination/paginate" 
 import Sidebar from '../components_r/component°/sidebar/sidebar';
-import HotelsTable from "./Products/HotelsTable";
+import ProductBody  from "./Products/ProductBody";
 import _ from "lodash"
 
 class Hotels extends Component {
@@ -89,12 +89,13 @@ handlePaginationClick = lodashpage => {
                 <p> Showing {filtered.length} hotels on our platform </p> </section>
             <section className="products hotel">
             
-              <HotelsTable 
-              hotels ={hotels}
+              <ProductBody 
+              products ={hotels}
               onBookmark={this.handleBookmark}
               onDelete={this.handleDelete}
+              onSort={this.handleSort}
               sortColumn={sortColumn}
-              onSort={this.handleSort}/>    
+              />    
                 </section> 
             <section className="pagination">
                 <Pagination

@@ -12,6 +12,13 @@ class Sort extends Component {
         }
     this.props.onSort(sortColumn)
     }
+    
+    renderSortIcon = column => { 
+               const {sortColumn }  = this.props;
+                           
+          if (column.path != sortColumn.path) return null;
+           if(sortColumn.order  === 'asc') return <i className="fa fa-sort-asc"></i>
+           return <i className="fa fa-sort-desc"></i>                    }
     render() { 
         return ( <React.Fragment> 
                 
@@ -21,14 +28,18 @@ class Sort extends Component {
             <tr>
             {this.props.columns.map(column =>  
             <th key={column.path || column.key } onClick={()=> this.raiseSort(column.path)}> 
-            {column.label} </th> )} 
+            {column.label} {this.renderSortIcon(column)} </th> )} 
             </tr>
             </thead> 
             
             <section> 
             <select>
             {this.props.columns.map((option) => (
-              <option onClick={()=> this.raiseSort(option.path)} value={option.path}>{option.label}</option>
+                <React.Fragment> 
+                <option onClick={()=> this.raiseSort(option.path)} value={option.path}>{option.label}  </option>
+            
+                    </React.Fragment>
+              
             ))}
           </select></section> 
                 
