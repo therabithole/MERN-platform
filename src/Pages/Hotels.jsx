@@ -7,7 +7,7 @@ import {getAmenities} from "../node/services/fakeAmenityService";
 import Pagination from "../components_r/component°/pagination/Pagination"
 import paginate from "../components_r/component°/pagination/paginate" 
 import Sidebar from '../components_r/component°/sidebar/sidebar';
-import ProductBody  from "./Products/ProductBody";
+import ProductBody from "../Pages/Products/ProductBody";
 import _ from "lodash"
 
 class Hotels extends Component {
