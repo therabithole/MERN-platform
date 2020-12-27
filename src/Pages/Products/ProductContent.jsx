@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import _ from 'lodash'
 
+// tableBody
 class productContent extends Component {
-    state = {  }
+  
     
-   
     renderProduct = (product, column) => {
         if (column.content) return column.content(product) // render buttons
         
@@ -25,7 +25,7 @@ class productContent extends Component {
                          <td key={this.createKey(product, column)}> 
                          {this.renderProduct(product, column)}
                          </td> )}
-            
+                
         </tr>
                                    )}
             

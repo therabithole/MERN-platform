@@ -28,7 +28,7 @@ errors: {}
     return (
       <form onSubmit={this.handleSubmit}>
         {this.renderInput(
-          "supplierEmail",
+          "Supplier Email",
           "Business Email: ",
           "Enter your business email"
         )}

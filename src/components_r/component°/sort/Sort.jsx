@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+
 class Sort extends Component {
     
     raiseSort = path => {
@@ -20,30 +21,20 @@ class Sort extends Component {
            if(sortColumn.order  === 'asc') return <i className="fa fa-sort-asc"></i>
            return <i className="fa fa-sort-desc"></i>                    }
     render() { 
-        return ( <React.Fragment> 
+        return ( 
                 
                 <thead>
                 
             
             <tr>
             {this.props.columns.map(column =>  
-            <th key={column.path || column.key } onClick={()=> this.raiseSort(column.path)}> 
+            <th style = {{"cursor": "pointer"}}key={column.path || column.key } onClick={()=> this.raiseSort(column.path)}> 
             {column.label} {this.renderSortIcon(column)} </th> )} 
             </tr>
             </thead> 
             
-            <section> 
-            <select>
-            {this.props.columns.map((option) => (
-                <React.Fragment> 
-                <option onClick={()=> this.raiseSort(option.path)} value={option.path}>{option.label}  </option>
-            
-                    </React.Fragment>
-              
-            ))}
-          </select></section> 
+
                 
-                </React.Fragment>
             
            
             

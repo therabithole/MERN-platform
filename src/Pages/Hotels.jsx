@@ -14,6 +14,7 @@ class Hotels extends Component {
     state = { 
         hotels : [],
         amenities: [],
+     
         pageSize: 5,
         currentPage: 1,
         currentSidebar: [],
@@ -23,6 +24,8 @@ class Hotels extends Component {
 componentDidMount() {
     
     const amenities = [{_id: '', name: "All Amenities"}, ...getAmenities()]
+ 
+    
     this.setState({hotels: getHotels(), amenities: amenities})
 
     
@@ -57,21 +60,32 @@ handlePaginationClick = lodashpage => {
     this.setState({currentPage: lodashpage})
 }
 
+getPageData = () => {
 
-    render() { 
-
-        const {length: count} = this.state.hotels
-        const {currentPage, pageSize, hotels: allHotels, selectedSidebarItem, sortColumn} = this.state;
-
-        if(count === 0) 
-        return <p> There are no hotels on our platform </p> 
-
+    const {currentPage, pageSize, hotels: allHotels, selectedSidebarItem, sortColumn} = this.state;
     const filtered = selectedSidebarItem && selectedSidebarItem._id  //second argument is passed to bypass all emeneties with no id and render it
     ? allHotels.filter( hotel => hotel.amenities._id === selectedSidebarItem._id)
     : allHotels;
     
     const sorted = _.orderBy(filtered, [sortColumn.path],[sortColumn.order] )
-        const hotels = paginate(sorted, currentPage, pageSize)
+    const hotels = paginate(sorted, currentPage, pageSize)
+        
+    return {totalCount: filtered.length, data: hotels } 
+}
+
+
+    render() { 
+
+        const {length: count} = this.state.hotels
+        
+        const {currentPage, pageSize, sortColumn} = this.state;
+
+       
+        if(count === 0) 
+        return <p> There are no hotels on our platform </p> 
+
+   
+const {totalCount, data: hotels} = this.getPageData();
 
         return ( 
         <section className="content hotels">
@@ -83,10 +97,12 @@ handlePaginationClick = lodashpage => {
          onItemSelect={this.handleSidebarSelect}
          textProperty="name"
          idProperty="_id"
-         /> </section>
+         />
+         
+          </section>
             <section className="header">
 
-                <p> Showing {filtered.length} hotels on our platform </p> </section>
+                <p> Showing {totalCount} hotels on our platform </p> </section>
             <section className="products hotel">
             
               <ProductBody 
@@ -99,7 +115,7 @@ handlePaginationClick = lodashpage => {
                 </section> 
             <section className="pagination">
                 <Pagination
-                totalProducts={filtered.length}
+                totalProducts={totalCount}
                 pageSize={pageSize}
                 currentPage={currentPage}
                 onPaginationClick={this.handlePaginationClick}

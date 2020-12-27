@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import Bookmark from "../../components_r/element°/buttons/like/Bookmark";
-import Sort from '../../components_r/component°/sort/Sort';
-import ProductContent from "./ProductContent";
+import {Link} from 'react-router-dom';
+import Product from "./Product";
 
 
 class ProductBody extends Component {
     
     state = {
         columns : [
-            {path: 'title', label: "Title"},
+            {path: 'title', label: "Title", content: product => <Link to={`/hotels/${product._id}`}> {product.title}</Link>  },
             {path: 'amenities.name', label: "Amenity"},
             {path: 'rooms', label: "Rooms"},
             {path: 'price', label: "Price"},
@@ -21,15 +21,11 @@ class ProductBody extends Component {
        
         const {products, sortColumn, onSort} = this.props;
     
-        return ( <table className="table">
-                <Sort 
-                columns= {this.state.columns}
-                sortColumn = {sortColumn}
-                onSort = {onSort}
-                />
-       <ProductContent data={products} columns={this.state.columns}/>
-       
-    </table> );
+        return ( <Product
+                columns={this.state.columns}
+                data={products}
+                sortColumn={sortColumn}
+                onSort={onSort}/> );
     }
 }
  

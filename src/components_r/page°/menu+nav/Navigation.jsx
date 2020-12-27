@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Logo from "../logo/Logo";
 import "../../../styles/App.css"
 import Search from "../../component°/search/Search";
-
+import {Link } from "react-router-dom";
 
 class Navigation extends Component {
   state = {  }
@@ -12,14 +12,15 @@ class Navigation extends Component {
      <section className="menu">  
      <section className="navigation">
        <ul>
-         <li><a href="/"> Home</a></li>
-         <li><a href="/hotels"> Hotels</a> </li>
-         <li><a href="/restaurants"> Restaurants</a></li>
-         <li><a href="/thingstodo"> Things to Do</a></li>
-         <li><a href="/suppliers/login">  Supplier Login </a></li> 
-        <li> <a href="/suppliers/register">  Supplier Register </a></li> 
-        <li> <a href="/customers/login">  Customer Login </a></li> 
-        <li> <a href="/customers/register">  Customer Register </a></li> 
+         <li><Link to="/"> Home</Link ></li>
+         <li><Link to="/hotels"> Hotels</Link > </li>
+         <li><Link to="/restaurants"> Restaurants</Link ></li>
+         <li><Link to="/thingstodo"> Things to Do</Link ></li>
+         <li><Link to="/suppliers/login">  Supplier Login </Link ></li> 
+        <li> <Link to="/suppliers/register">  Supplier Register </Link ></li> 
+        <li> <Link to="/customers">  Customers </Link ></li> 
+        <li> <Link to="/customers/login">  Customer Login </Link ></li> 
+        <li> <Link to="/customers/register">  Customer Register </Link ></li> 
         
        </ul>
      </section>
