@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-const Input = ({name, title, type = 'text', value, onChange, error}) => {
+const Input = ({name, title, type = 'text', value, onChange, error, ...rest}) => {
     
     return ( 
         <div className="form-group">

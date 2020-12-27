@@ -1,6 +1,6 @@
 import React, { Component } from "react";
  import userIcon from "../../assets/images/userIcon.svg";
-import LoginForm from "../../components_r/page°/forms/suppliers/Login";
+import LoginForm from "../../components_r/page°/Form/Suppliers/LoginForm";
 
 class SupplierLogin extends Component {
   state = {};
@@ -12,7 +12,7 @@ class SupplierLogin extends Component {
           <h1> Supplier Login Panel</h1>
         
         </section>
-        <LoginForm />
+       <LoginForm/>
       </React.Fragment>
     );
   }

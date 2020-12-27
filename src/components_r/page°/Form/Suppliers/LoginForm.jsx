@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Input from "./Input";
+import Input from "../Input";
 import Joi from 'joi-browser';
-import BaseForm from './BaseForm';
+import BaseForm from "../BaseForm"
 
 
 class LoginForm extends BaseForm {
@@ -49,9 +49,10 @@ class LoginForm extends BaseForm {
                 error={errors.email}/>
                  
                  <Input 
-        
+                
                 name="password" 
                 title={"Ent your Password"}
+                type="password"
                 value={data.password}
                 onChange={this.onTyping}
                 error={errors.password}/>

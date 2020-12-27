@@ -18,11 +18,8 @@ import Navigation from './components_r/page°/menu+nav/Navigation';
 
  import SupplierLogin from "./Pages/suppliers/SupplierLogin";
  import SupplierRegister from "./Pages/suppliers/SupplierRegister";
- import LoginForm from "../src/components_r/page°/newForm/LoginForm";
  
  import SupplierDashboard from './Pages/suppliers/SupplierDashboard';
-import CustomerRegister from './Pages/customers/CustomerRegister';
-import CustomerLogin from './Pages/customers/CustomerLogin';
 import Customers from './Pages/customers/Customers';
 
 import Hotel from "./Pages/Products/Hotel";
@@ -38,14 +35,14 @@ function App() {
    <Route path="/restaurants" component = {Restaurants}/>
    <Route path="/thingstodo" component = {ThingsToDo}/>
    <Route path="/customers" component = {Customers}/>
-   <Route path="/customers/register" component ={CustomerRegister}/>
-   <Route path="/customers/login" component ={CustomerLogin}/>
+   <Route path="/customers/register" component ={NotFound}/>
+   <Route path="/customers/login" component ={NotFound}/>
    <Route path="/suppliers/register" component = {SupplierRegister}/>
    <Route path="/suppliers/login" component ={SupplierLogin}/>
    <Route path="/suppliers/dashboard" component={SupplierDashboard}/>
    <Route path="/" exact component={Home}/>
    <Route path="/not-found" component={NotFound}/>
-   <Route path="/newform" component={LoginForm}/>
+  
    <Redirect to ="/not-found"/>
    </Switch>
     </div>
