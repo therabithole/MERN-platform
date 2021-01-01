@@ -12,6 +12,7 @@ class ProductBody extends Component {
             {path: 'amenities.name', label: "Amenity"},
             {path: 'rooms', label: "Rooms"},
             {path: 'price', label: "Price"},
+            {path: 'numberInStock', label: "Rooms Available"},
             {key: 'bookmark', content : product => (<Bookmark bookmarked={product.bookmark} toggleClick={() => this.props.onBookmark(product)}/> ) }, // bookmark
             {key : 'delete', content :  product =>  <button onClick={() => this.props.onDelete(product)}className="btn btn-danger btn-sm"> Delete </button>  }, // delete
         ]

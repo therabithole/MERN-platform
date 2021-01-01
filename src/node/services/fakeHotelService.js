@@ -7,6 +7,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471818", name: "Free Parking" },
     rooms: 6,
     price: 2.5,
+    numberInStock: 5,
     publishDate: "2018-01-03T19:04:28.809Z",
     bookmark: undefined,
   },
@@ -16,6 +17,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471818", name: "Free Parking" },
     rooms: 5,
     price: 2.5,
+    numberInStock: 5,
     bookmark: "",
   },
   {
@@ -24,6 +26,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471820", name: "Meeting Rooms" },
     rooms: 8,
     price: 3.5,
+    numberInStock: 4,
     
   },
   {
@@ -32,6 +35,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471814", name: "Free Breakfast" },
     rooms: 7,
     price: 3.5,
+    numberInStock: 4,
     
   },
   {
@@ -40,6 +44,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471814", name: "Free Breakfast" },
     rooms: 7,
     price: 3.5,
+    numberInStock: 6,
     
   },
   {
@@ -47,7 +52,8 @@ const hotels = [
     title: "Beach Luxury Hotel",
     amenities: { _id: "5b21ca3eeb7f6fbccd471814", name: "Free Breakfast" },
     rooms: 7,
-    price: 3.5
+    price: 3.5,
+    numberInStock: 7,
   },
   {
     _id: "5b21ca3eeb7f6fbccd47181e",
@@ -55,6 +61,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471820", name: "Meeting Rooms" },
     rooms: 7,
     price: 4.5,
+    numberInStock: 9,
     
   },
   {
@@ -63,6 +70,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471820", name: "Meeting Rooms" },
     rooms: 4,
     price: 3.5,
+    numberInStock: 2,
      
   },
   {
@@ -71,6 +79,7 @@ const hotels = [
     amenities: { _id: "5b21ca3eeb7f6fbccd471818", name: "Free Parking" },
     rooms: 7,
     price: 3.5,
+    numberInStock: 3,
     
   }
 ];
@@ -85,13 +94,14 @@ export function getHotel(id) {
 
 export function saveHotel(hotel) {
   let hotelInDb = hotels.find(h => h._id === hotel._id) || {};
-  hotelInDb.name = hotel.name;
-  hotelInDb.amenities = amenitiesAPI.amenities.find(a => a._id === hotel.amenitiesId);
+  hotelInDb.title = hotel.title;
+  hotelInDb.amenity = amenitiesAPI.amenities.find(a => a._id === hotel.amenitiesId);
   hotelInDb.rooms = hotel.rooms;
   hotelInDb.price = hotel.price;
+  hotelInDb.numberInStock  = hotel.numberInStock
 
   if (!hotelInDb._id) {
-    hotelInDb._id = Date.now();
+    hotelInDb._id = Date.now().toString();
     hotels.push(hotelInDb);
   }
 

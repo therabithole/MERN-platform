@@ -29,30 +29,11 @@ class RegisterForm extends BaseForm {
     
         return ( 
             <form onSubmit={this.handleSubmit}>
-            <Input 
-                name="name" 
-                title={"Enter business name"}
-                type="text"
-                value={data.name}
-                onChange={this.onTyping}
-                error={errors.name}/>
-                <Input 
-                name="email" 
-                title={"Enter business email"}
-                type="email"
-                value={data.email}
-                onChange={this.onTyping}
-                error={errors.email}/>
-                 
-                 <Input 
-                
-                name="password" 
-                title={"Ent your Password"}
-                type="password"
-                value={data.password}
-                onChange={this.onTyping}
-                error={errors.password}/>
-                 {this.reusableButton('Register your Business')}
+            {/* {this.reusableInput('name', 'title', 'type' )}  */}
+             {this.reusableInput('name', 'Enter business name' )}
+            {this.reusableInput('email', 'Enter business email' )}
+            {this.reusableInput('password', 'Enter your Password1', 'password' )}
+            {this.reusableButton('Register your Business')}
            
             </form>    );
     }

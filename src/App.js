@@ -22,7 +22,7 @@ import Navigation from './components_r/page°/menu+nav/Navigation';
  import SupplierDashboard from './Pages/suppliers/SupplierDashboard';
 import Customers from './Pages/customers/Customers';
 
-import Hotel from "./Pages/Products/Hotel";
+import HotelForm from "./components_r/page°/Form/Products/HotelForm";
 
 function App() {
   return (
@@ -30,7 +30,8 @@ function App() {
    <Navigation/>   
    <Hamburger/>
    <Switch> 
-   <Route path="/hotels/:id" component={Hotel}/>
+   
+   <Route path="/hotels/:id" component={HotelForm}/>
    <Route path ="/hotels" component={Hotels}/>
    <Route path="/restaurants" component = {Restaurants}/>
    <Route path="/thingstodo" component = {ThingsToDo}/>

@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Joi from 'joi-browser';
 import Input from "./Input";
+import Select from "./Select";
+import Checkbox from "./Checkbox";
 
 class BaseForm extends Component {
     state = 
@@ -20,6 +22,9 @@ onTyping =  ({currentTarget: input }) => {
         // e.currentTarget {}
         const data = {...this.state.data};
         data[input.name] = input.value;
+       
+        console.log(data)
+        
         this.setState({data, errors})
         
     }
@@ -50,18 +55,59 @@ validateFields = ({name, value}) => {
         
         const setErrors= this.validateForm()
      
-        this.setState({errors: setErrors || {}})
+        this.setState({errors: setErrors || {}});
+        console.log(setErrors);
         
      this.formSubmission();
      
     }
     
    
-              
+reusableInput( name, title, type="text") {
     
+     
+    const {data, errors} = this.state;
+    
+ return ( 
+    <Input 
+    name={name} 
+    title={title}
+    type={type}
+    value={data[name]}
+    onChange={this.onTyping}
+    error={errors[name]}/>)
+    
+}
+ 
+             
+ resusableSelect(name, title, options) {
+     const {data, errors} = this.state;
+     
+     return(<Select 
+            name={name}
+            value={data[name]}
+            title={title} 
+            options={options}
+            onChange={this.onTyping}
+            error={errors[name]}    />)
+     
+ } 
+ 
+ reusableCheck(name, title, options) {
+     const {data, errors} = this.state;
+     
+     return(<Checkbox
+        name={name}
+        value={data[name]}
+        title={title} 
+        options={options}
+        onChange={this.onTyping}
+        error={errors[name]}    />)
+ }
+       
 reusableButton (title) { 
 return (<button
-    disabled={this.validateForm()} className="btn btn-primary"> 
+     className="btn btn-primary"> 
     {title} </button>)}
 
 
