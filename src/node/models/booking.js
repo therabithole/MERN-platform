@@ -1,5 +1,6 @@
 const Joi = require('joi');
 const mongoose = require('mongoose');
+Joi.objectId = require('joi-objectid')(Joi)
 
 const bookingMongoSchema = new mongoose.Schema({
    customer : {
@@ -15,17 +16,18 @@ const bookingMongoSchema = new mongoose.Schema({
    })},
    dateIn: { type: Date},
    dateOut: { type: Date},
-   bookingFee: {type: Number}
+  
   })
    
 
   const Booking = mongoose.model('Booking',bookingMongoSchema)
 
-function validateBooking(booking)
-    {
+function validateBooking(booking) {
     const schema = {
-        customerId: Joi.string.required(),
-        hotelId: Joi.string.required()
+       // customerId: Joi.string().required(),
+        // hotelId: Joi.string().required()
+        customerId: Joi.objectId().required(),
+        hotelId: Joi.objectId().required()
     } 
     return Joi.validate(booking, schema)
 }

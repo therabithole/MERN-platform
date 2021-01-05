@@ -1,3 +1,4 @@
 {
-    "name" : "macdevelopment"
+    "name" : "macdevelopment",
+    "jwtPrivateKey" : ""
 }

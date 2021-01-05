@@ -23,7 +23,8 @@ router.get('/', async (req, res) => {
      const amenity = await Amenity.findById(req.body.amenityId) // *
     if (!amenity) return res.status(400).send('Invalid Amniety') // *
   
-    let hotel = new Hotel ({
+  // first it was let hotel and see line 39 next //
+    const hotel = new Hotel ({
         title: req.body.title,
         amenity: {
           _id: amenity._id, // ref
@@ -35,7 +36,8 @@ router.get('/', async (req, res) => {
        
     })
     
-    hotel = await hotel.save() 
+  //  hotel = await hotel.save() you dont have to define new let 
+    await hotel.save()
     res.send(hotel);
      
   });

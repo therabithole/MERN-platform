@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const {amenitySchema} = require("./amenity");
 const Joi = require('joi');
+Joi.objectId = require('joi-objectid')(Joi)
 
 const hotelMongoSchema  = new mongoose.Schema({
   title: {type: String, lowercase: true, trim: true, minlength: 3, maxlength: 250 },
@@ -18,8 +19,9 @@ function validateHotel(hotel) {
     
     const schema = {
       title: Joi.string().min(3).max(250).required(),
-      amenityId: Joi.string().required(), // different than type:AmenitySchema, for client se
-      rooms: Joi.number().greater(1).less(1000),
+     // amenityId: Joi.string().required(), // different than type:AmenitySchema, for client se
+     amenityId: Joi.ObjectId().required(), // just to handle error for objectids of refs 
+     rooms: Joi.number().greater(1).less(1000),
       price: Joi.number().greater(10).less(500),
       numberInStock: Joi.number().required().min(1).max(10)
      

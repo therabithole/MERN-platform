@@ -2,6 +2,26 @@
 // const helmet = require("helmet"); // for securing app with setting some http headers
 // const morgan = require('morgan'); // to log http requests
 
+// mongod --dbpath ~/data/db
+//routes
+const home = require("./routes/home");
+const amenities = require("./routes/amenities");
+const hotels = require("./routes/hotels");
+const customers = require("./routes/customers");
+const bookings = require("./routes/bookings");
+const register_or_users = require("./routes/register_or_user");
+const login_or_auth= require('./routes/login_or_auth');
+const express = require('express');
+const app = express();
+
+
+
+const config = require('config');
+if(!config.get('jwtPrivateKey')) {
+  console.log('fatal error: jwt key not Defined')
+  process.exit(1)
+  }
+
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/hospitality')
 .then(()=> console.log('Connected to MongoDB'))
@@ -13,13 +33,6 @@ const logger = require('./middleware/logger')
 const authenticator = require("./middleware/authenticator");
 
 
-//routes
-const home = require("./routes/home");
-const amenities = require("./routes/amenities");
-const hotels = require("./routes/hotels");
-const customers = require("./routes/customers");
-const express = require('express');
-const app = express();
 
 
 app.use(express.json());
@@ -35,6 +48,9 @@ app.use('/', home);
 app.use("/api/amenities", amenities);
 app.use("/api/hotels", hotels);
 app.use("/api/customers", customers);
+app.use("/api/bookings", bookings);
+app.use("/api/register_or_users", register_or_users) // REGSIGTER
+app.use("/api/login_or_auth", login_or_auth);   // LOGIN
 
 // auth and log
 app.use(logger)

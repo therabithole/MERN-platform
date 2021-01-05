@@ -1,3 +1,4 @@
+const admin = require("../middleware/authenticator")
 const {Amenity, validateAmenity} = require("../models/amenity");
 const mongoose = require('mongoose');
 
@@ -14,7 +15,7 @@ router.get('/', async (req, res) => {
   
   
  // POST 
-  router.post('/', async (req, res) => {
+  router.post('/', admin, async (req, res) => {
     const { error } = validateAmenity(req.body); 
     if (error)  {
         res.status(400).send(error.details[0].message); 
@@ -45,7 +46,6 @@ return ;}
     const amenity = await Amenity.findByIdAndUpdate(req.params._id, {name: req.body.name}, {new: true})
      if (!amenity ) res.status(404).send('The amenity  with the given ID was not found.');
   
-    
     res.send(amenity);
   });
   
