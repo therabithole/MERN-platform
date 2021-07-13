@@ -9,7 +9,7 @@ const amenities = require("./routes/amenities");
 const hotels = require("./routes/hotels");
 const customers = require("./routes/customers");
 const bookings = require("./routes/bookings");
-const register_or_users = require("./routes/register_or_user");
+const register_or_users = require("./routes/register_or_users");
 const login_or_auth= require('./routes/login_or_auth');
 const express = require('express');
 const app = express();
@@ -17,9 +17,10 @@ const app = express();
 
 
 const config = require('config');
+
 if(!config.get('jwtPrivateKey')) {
-  console.log('fatal error: jwt key not Defined')
-  process.exit(1)
+  console.log('Fatal Error: jwt key not Defined, set JWT PrivateKey')
+//  process.exit(1)
   }
 
 const mongoose = require('mongoose');
@@ -33,12 +34,10 @@ const logger = require('./middleware/logger')
 const authenticator = require("./middleware/authenticator");
 
 
-
-
 app.use(express.json());
 app.use(express.urlencoded({extended : true})) // for key=value &key=value advanced form fileds; extende ture
 
-// app.set('view engine', 'pug');
+app.set('view engine', 'pug');
 // app.set('views', './views')
 // app.use(express.static('public'))
 // app.use(helmet()) // http request se
@@ -68,3 +67,5 @@ if (app.get('env') === 'development') {
 }
 
 */
+
+//mongod --dbpath ~/data/db

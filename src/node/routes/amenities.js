@@ -1,4 +1,5 @@
-const admin = require("../middleware/authenticator")
+const authenticator = require("../middleware/authenticator");
+const admin = require("../middleware/admin");
 const {Amenity, validateAmenity} = require("../models/amenity");
 const mongoose = require('mongoose');
 
@@ -9,13 +10,19 @@ const Joi = require('joi');
 
 // GET
 router.get('/', async (req, res) => {
-  const amenities = await Amenity.find();
-    res.send(amenities);
+
+  try {
+    const amenities = await Amenity.find();
+    res.send(amenities);}
+  catch (ex) {
+    
+  }
   });
   
   
  // POST 
-  router.post('/', admin, async (req, res) => {
+  router.post('/',authenticator, async (req, res) => {
+    
     const { error } = validateAmenity(req.body); 
     if (error)  {
         res.status(400).send(error.details[0].message); 
@@ -32,7 +39,7 @@ router.get('/', async (req, res) => {
   
   
   // PIUT
-  router.put('/:_id', async (req, res) => {
+  router.put('/:_id', authenticator, async (req, res) => {
 
 
 // validate from client First
@@ -49,7 +56,7 @@ return ;}
     res.send(amenity);
   });
   
-  router.delete('/:_id', async (req, res) => {
+  router.delete('/:_id', [authenticator, admin], async (req, res) => {
    
    // working with array
    //  const amenity  = amenities.find(amenity => amenity._id === req.params._id)

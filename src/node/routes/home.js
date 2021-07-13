@@ -4,7 +4,7 @@ const router = express.Router()
 router.get('/', (req, res)=> {
     // for using html and pug
     res.render('index', {
-      heading: "Platform HomePage "
+      heading: "Platform HomePage Backend "
     })
       
     })

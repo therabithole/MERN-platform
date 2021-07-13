@@ -9,12 +9,13 @@ const passwordComplexity = require("joi-password-complexity"); // Facebook Like 
 const userMongooseSchema = new mongoose.Schema({
     name: {type: String, trim: true, min: 3, max: 50, required: true},
     email: { type: String, unique: true, trim: true, required: true}, // UNIQUE properrty for EMAIL REGISTER
-    password: {type: String, trim: true, maxlength: 1024, required: true} // higher value for maxlength for pass becasue hashing
+    password: {type: String, trim: true, maxlength: 1024, required: true}, // higher value for maxlength for pass becasue hashing
+    isAdmin: {type: Boolean} // role based authorisation
 })
 
 userMongooseSchema.methods.generateAuthToken = function() {
   //  const token = jwt.sign({_id: user._id}, config.get('jwtPrivateKey'));
-    const token = jwt.sign({_id: this._id}, config.get('jwtPrivateKey'));
+    const token = jwt.sign({_id: this._id, isAdmin: this.isAdmin}, config.get('jwtPrivateKey'));
     return token
 }
 

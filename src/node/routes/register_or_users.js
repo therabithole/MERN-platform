@@ -6,10 +6,19 @@ const express = require('express');
 const router = express.Router();
 const Joi = require('joi');
 const bcrypt = require("bcrypt");
+const admin = require("../middleware/authenticator");
 
 // because we dont want to send the password back we used lodash 
 const _ = require('lodash')
 
+
+
+router.get("/profile", admin, async (req, res)=> {
+    
+const user = await User.findById(req.user._id).select('-password')
+res.send(user)
+
+} )
 
 
 router.post("/", async (req, res) => {
